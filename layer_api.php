@@ -12,8 +12,8 @@ Class LayerApi{
     public function __construct($env,$access_key,$secret_key){
 
         $this->env = $env;
-        $this->access_key = $access_key;
-        $this->secret_key = $secret_key;
+        $this->303f8f50-e70c-11ed-a1fe-3b456b98da58 = $access_key;
+        $this->0fa4d85bd97664904224aa7c6fa6072d370778c9 = $secret_key;
     }
 
     public function create_payment_token($data){
